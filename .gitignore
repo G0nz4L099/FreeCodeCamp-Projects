@@ -1,5 +1,8 @@
 node_modules
 .DS_Store
+HEAD
 /env
 .freeCodeCamp
 *.log
+.freeCodeCamp/
+env/git add .gitignore
